@@ -13,6 +13,7 @@ dan memiliki banyak [[falsafah kehidupan]], [[sejarah]] Pondok Modern Darussalam
 dari berdirinya Pondok Tegalsari pada abad ke-18, kemudian Pondok Gontor Lama, hingga Pondok Modern Darussalam
 Gontor yang didirikan pada 20 September 1926.
 
+
 ***
 
 ## Daftar Isi
