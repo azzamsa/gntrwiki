@@ -1,0 +1,4 @@
+[submodule "themes/adidoks"]
+	path = themes/adidoks
+	url = git@github.com:azzamsa/adidoks.git
+	branch = main
