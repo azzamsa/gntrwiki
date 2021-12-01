@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://azzamsa.github.io/gntrwiki"
 title = "gntrwiki"
-description = "Small wiki for ummah"
+description = "Wiki mini untuk ummat"
 
 theme = "adidoks"
 default_language = "en"

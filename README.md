@@ -1,7 +1,7 @@
 <div align="center">
 <h1>gntrwiki</h1>
 
-🕌 Small wiki for ummah.
+🕌 Wiki mini untuk ummat.
 
 <a href="https://github.com/azzamsa/gntrwiki/workflows/ci.yml">
     <img src="https://github.com/azzamsa/gntrwiki/workflows/ci/badge.svg" alt="Build status" />

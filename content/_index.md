@@ -3,8 +3,8 @@ title = "gntrwiki 🕌"
 
 # The homepage contents
 [extra]
-lead = 'Small wiki for ummah'
+lead = '🕌 Wiki mini untuk ummat'
 url = "/wiki/tentang/"
-url_button = "Read More"
+url_button = "Baca Selengkapnya ▶️"
 
 +++
