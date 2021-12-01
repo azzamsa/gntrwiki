@@ -1,7 +1,7 @@
 +++
 title = "Alamat Pondok Cabang"
-description = "Alamat Pondok Cabang"
-date = 2021-12-01
+description = "Alamat Pondok Modern Darussalam Gontor"
+Date = 2021-12-01
 updated = 2021-12-01
 draft = false
 weight = 11
@@ -10,8 +10,9 @@ template = "wiki/page.html"
 toc = true
 +++
 
-
-## ALAMAT PONDOK MODERN DARUSSALAM GONTOR
+``` text
+⚠️ Kemungkintan data dibawah ini tidak terkini
+```
 
 1. Pondok Modern Darussalam Gontor, Ponorogo, Jawa Timur, Telp. (0352) 311711, 311911. 313102
 2. Pondok Modern Darussalam Gontor Kampus 2, Madusari, Siman, Ponorogo, Jawa Timur. Telp. (0352)483-729, 488-570.

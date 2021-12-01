@@ -10,6 +10,10 @@ template = "wiki/page.html"
 toc = true
 +++
 
+``` text
+⚠️ Kemungkintan data dibawah ini tidak terkini
+```
+
 Penjelasan Singkat Pendaftaran Masuk KMI (Kulliyatu-L-Mu'allimat Al-Islamiyah)
 
 
