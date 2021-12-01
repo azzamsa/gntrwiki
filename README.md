@@ -1,10 +1,10 @@
 <div align="center">
-<h1>Cheatsheets</h1>
+<h1>gntrwiki</h1>
 
-My most used snippets 🧠 that nice to share.
+🕌 Small wiki for ummah.
 
-<a href="https://github.com/azzamsa/cheatsheets/workflows/ci.yml">
-    <img src="https://github.com/azzamsa/cheatsheets/workflows/ci/badge.svg" alt="Build status" />
+<a href="https://github.com/azzamsa/gntrwiki/workflows/ci.yml">
+    <img src="https://github.com/azzamsa/gntrwiki/workflows/ci/badge.svg" alt="Build status" />
 </a>
 
 </div>
@@ -13,7 +13,7 @@ My most used snippets 🧠 that nice to share.
 
 ## Usage
 
-- Visit [the website](https://azzamsa.github.io/cheatsheets/).
+- Visit [the website](https://azzamsa.github.io/gntrwiki/).
 
 ## Credits
 
