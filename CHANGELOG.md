@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.3] - 2021-12-01
+
+### Bug Fixes
+- Terjemahkan ke bahasa (6d39338)
+- Logo tidak tampil pada twitter card (66344a3)
+
+
 ## [0.1.2] - 2021-12-01
 
 ### Bug Fixes
