@@ -13,7 +13,7 @@
 
 ## Cara Penggunaan
 
-- Visit [the website](https://azzamsa.github.io/gntrwiki/).
+- Kunjungi [halaman gntrwiki](https://azzamsa.github.io/gntrwiki/).
 
 ## Credits
 
