@@ -11,10 +11,11 @@
 
 ---
 
-## Usage
+## Cara Penggunaan
 
 - Visit [the website](https://azzamsa.github.io/gntrwiki/).
 
 ## Credits
 
 - [AdiDoks](https://github.com/aaranxu/adidoks) theme by Aaran Xu
+- [Noto Emoji](https://github.com/googlefonts/noto-emoji) by Google

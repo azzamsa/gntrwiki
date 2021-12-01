@@ -1,5 +1,5 @@
 +++
-title = "gntrwiki 🕌"
+title = "gntrwiki"
 
 # The homepage contents
 [extra]
