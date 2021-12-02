@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>gntrwiki</title>
+	<subtitle>Wiki mini untuk ummat</subtitle>
+	<link href="https://azzamsa.github.io/gntrwiki/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://azzamsa.github.io/gntrwiki"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-12-01T00:00:00+00:00</updated>
+	<id>https://azzamsa.github.io/gntrwiki/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Azzam S.A</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/authors/azzamsa/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/authors/azzamsa/</id>
+		<content type="html">&lt;p&gt;https:&#x2F;&#x2F;twitter.com&#x2F;azzamsyawqi&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Raghda Oktavia</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/authors/daoktav/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/authors/daoktav/</id>
+		<content type="html">&lt;p&gt;https:&#x2F;&#x2F;twitter.com&#x2F;raghdaso&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Cholophone</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/cholophon/cholophon/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/cholophon/cholophon/</id>
+		<content type="html">&lt;h2 id=&quot;gntrwiki&quot;&gt;GntrWiki&lt;&#x2F;h2&gt;
+&lt;p&gt;Wiki kecil untuk ummat.&lt;&#x2F;p&gt;
+&lt;p&gt;Proyek gntrwiki di bangun berdasarkan niat untuk mengabdikan diri sebagai khalifah Allah, memberikan kemanfaatan pada banyak orang.
+Kami banyak menemukan kebutuhan akan informasi mengenai Pondok Modern Darussalam Gontor, sehingga kami membuatnya.&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;Gntrwiki tidak berafiliasi dengan organisasi atau partai apapun, proyek ini murni untuk kepentingan ummat. segala isi dari wiki ini hanya diambil dari sumber resmi PMDG.&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;Gntrwiki bukan merupakan situs resmi, Segala informasi pada wiki ini sama sekali tidak menjamin validnya informasi yang ada, silahkan kunjungi gontor.ac.id atau hubungi pihak PMDG secara langsung untuk informasi mendalam.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;panduan-kontribusi&quot;&gt;Panduan Kontribusi&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Silahkan tekan tombol &amp;quot;Sunting halaman ini di GitHub&amp;quot; pada setiap akhir halaman. Lalu lakukan perubahan yang anda inginkan.&lt;&#x2F;li&gt;
+&lt;li&gt;Setelah perubahan yang diinginkan selesai. Silahkan tekan tombol &lt;code&gt;pull request&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Kami akan mereview hasil kontribusi anda, harap sabar menunggu.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;selamat berkontribusi&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;kontributor&quot;&gt;Kontributor&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;azzamsa.github.io&#x2F;gntrwiki&#x2F;authors&#x2F;&quot;&gt;Penulis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;id.wikipedia.org&#x2F;w&#x2F;index.php?title=Pondok_Modern_Darussalam_Gontor&amp;amp;action=history&quot;&gt;Kontributor&lt;&#x2F;a&gt; Halaman PMDG di wikipedia, (&lt;a href=&quot;https:&#x2F;&#x2F;creativecommons.org&#x2F;licenses&#x2F;by-sa&#x2F;3.0&#x2F;&quot;&gt;lisensi CC BY-SA 3.0&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Kami sangat senang jika anda berniat untuk menyumbangkan naskah atau kontribusi lainnya, termasuk diskusi dan pertanyaan.
+Silahkan sampaikan semua di halaman &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;azzamsa&#x2F;gntrwiki&#x2F;issues&quot;&gt;issue&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lisensi-proyek&quot;&gt;Lisensi proyek&lt;&#x2F;h2&gt;
+&lt;p&gt;Proyek ini menggunakan lisensi &lt;a href=&quot;https:&#x2F;&#x2F;creativecommons.org&#x2F;licenses&#x2F;by-sa&#x2F;4.0&#x2F;&quot;&gt;(CC BY-SA 4.0) &lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Kendaraan Ke Gontor</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/seputar/kendaraan-ke-gontor/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/seputar/kendaraan-ke-gontor/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Alumni (beberapa)</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/tentang/alumni/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/tentang/alumni/</id>
+		<content type="html">&lt;p&gt;Alumni Pondok Modern Darussalam Gontor, diataranya :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Abdurrahman Mohammad Fachir, Dr. (Wakil Menteri Luar Negeri RI)&lt;&#x2F;li&gt;
+&lt;li&gt;Abdussalam Panji Gumilang (Pimpinan Pesantren Al-Zaytun Indramayu)&lt;&#x2F;li&gt;
+&lt;li&gt;Abu Bakar Baasyir, Ust. (Pimpinan Pondok Pesantren Ngruki Solo)&lt;&#x2F;li&gt;
+&lt;li&gt;Achmad Nuril Mahyudin (Aktivis Sosial, Peraih Love &amp;amp; Care Award 2014)&lt;&#x2F;li&gt;
+&lt;li&gt;Adnan Pandu Praja (Mantan Wakil Ketua Komisi Pemberantasan Korupsi)&lt;&#x2F;li&gt;
+&lt;li&gt;Aflatun Muchtar, Prof. (Rektor UIN Raden Fatah Palembang)&lt;&#x2F;li&gt;
+&lt;li&gt;Ahmad Cholil Ridwan, K.H. (Mantan Ketua Dewan Dakwah Islamiyyah)&lt;&#x2F;li&gt;
+&lt;li&gt;Ahmad Fauzi Tidjani, Dr. (Rektor IDIA Prenduan Madura)&lt;&#x2F;li&gt;
+&lt;li&gt;Ahmad Fuadi (Jurnalis, Novelis, Peraih Education UK Alumni Award 2016)&lt;&#x2F;li&gt;
+&lt;li&gt;Ahmad Khairuddin, Prof. (Rektor Universitas Muhammadiyah Banjarmasin)&lt;&#x2F;li&gt;
+&lt;li&gt;Ahmad Luthfi Fathullah, Dr. (Direktur Kajian Hadis)&lt;&#x2F;li&gt;
+&lt;li&gt;Ahmad Satori Ismail, Prof. (Ketua Ikatan Dai Indonesia)&lt;&#x2F;li&gt;
+&lt;li&gt;Akbar Zainudin (Motivator &amp;amp; Trainer &amp;quot;Man Jadda Wajada&amp;quot;)&lt;&#x2F;li&gt;
+&lt;li&gt;Ali Mufrodi, Prof. (Wakil Rektor UIN Sunan Ampel Surabaya)&lt;&#x2F;li&gt;
+&lt;li&gt;Amal Fathullah Zarkasyi, Prof. (Rektor Universitas Darussalam Gontor)&lt;&#x2F;li&gt;
+&lt;li&gt;Amsal Bachtiar, Prof. (Direktur Perguruan Tinggi Agama Islam)&lt;&#x2F;li&gt;
+&lt;li&gt;Andri Sofyansyah (Sutradara, Film Dokumenter Terbaik FFI 2013)&lt;&#x2F;li&gt;
+&lt;li&gt;Anwar Sadeli Karim, K.H. (Ketua Umum Mathlaul Anwar)&lt;&#x2F;li&gt;
+&lt;li&gt;Armanu Thoyib, Prof. (Ketua Asosiasi Ilmuwan Manajemen Indonesia)&lt;&#x2F;li&gt;
+&lt;li&gt;Asep Sulaiman Subanda (Peraih Asia Pasific MO Entrepreneur 2008)&lt;&#x2F;li&gt;
+&lt;li&gt;Aunur Rohim Faqih, Dr. (Dekan FH UII Yogyakarta)&lt;&#x2F;li&gt;
+&lt;li&gt;Azhar Arsyad, Prof. (Mantan Rektor UIN Alauddin Makassar)&lt;&#x2F;li&gt;
+&lt;li&gt;Bachtiar Nasir, Ust. (Ketua Alumni Saudi Arabia se-Indonesia)&lt;&#x2F;li&gt;
+&lt;li&gt;Badri Yatim, Prof. (Mantan Dekan Fakultas Adab UIN Jakarta)&lt;&#x2F;li&gt;
+&lt;li&gt;Damanhuri Zuhri (Jurnalis &amp;amp; wartawan senior Republika)&lt;&#x2F;li&gt;
+&lt;li&gt;Dedi Djubaedi, Prof. (Mantan Direktur Madrasah Kemenag)&lt;&#x2F;li&gt;
+&lt;li&gt;Didin Sirojuddin AR (Kaligrafer Internasional, Pesantren Kaligrafi Al-Quran)&lt;&#x2F;li&gt;
+&lt;li&gt;Din Syamsuddin, Prof. (Mantan Ketua Umum PP Muhammadiyah dan MUI)&lt;&#x2F;li&gt;
+&lt;li&gt;Edyson Saifullah, Dr. (Dekan Fakultas Ekonomi UIN Palembang)&lt;&#x2F;li&gt;
+&lt;li&gt;Eka Putra Wirman, Dr. (Rektor IAIN Imam Bonjol Padang)&lt;&#x2F;li&gt;
+&lt;li&gt;Emha Ainun Nadjib (Budayawan)&lt;&#x2F;li&gt;
+&lt;li&gt;Gilang Hardian (Peraih Asia&#x27;s Student Entrepreneur Award 2015)&lt;&#x2F;li&gt;
+&lt;li&gt;Habib Chirzin, (Presiden Forum for Peace, Human Rights &amp;amp; Development)&lt;&#x2F;li&gt;
+&lt;li&gt;Hafidz Taftazani (Ketua Asosiasi Penyelenggara Haji Khusus se-Indonesia)&lt;&#x2F;li&gt;
+&lt;li&gt;Hamid Fahmy Zarkasyi, Dr. (Ketua Pimpinan Majelis MIUMI)&lt;&#x2F;li&gt;
+&lt;li&gt;Hasanain Juaini, Tgh. (Penerima Ramon Magsaysay Award)&lt;&#x2F;li&gt;
+&lt;li&gt;Hasbi Hasan, Dr. (Direktur PA Peradilan Agama Mahkamah Agung)&lt;&#x2F;li&gt;
+&lt;li&gt;Hasyim Muzadi, Dr. K.H. (Anggota Dewan Pertimbangan Presiden, Mantan Ketua Umum PBNU)&lt;&#x2F;li&gt;
+&lt;li&gt;Hidayat Nur Wahid, Dr. (Wakil Ketua MPR RI &amp;amp; Mantan Ketua MPR RI)&lt;&#x2F;li&gt;
+&lt;li&gt;I Nurol Aen, Prof. (Mantan Ketua Ikatan Sarjana NU) Jawa Barat&lt;&#x2F;li&gt;
+&lt;li&gt;Ibrahim Thoyyib, KH. (Pendiri dan Pimpinan Pondok Pesantren Wali Songo Ngabar)&lt;&#x2F;li&gt;
+&lt;li&gt;Idham Chalid, Dr. (Mantan Wakil Perdana Menteri RI, Pahlawan Nasional)&lt;&#x2F;li&gt;
+&lt;li&gt;Idris Abdul Shomad, Dr. (Wali Kota Depok Periode 2016–2020)&lt;&#x2F;li&gt;
+&lt;li&gt;Ika Yunia Fauzia, Dr. (Motivator dan Pakar Ekonomi Islam)&lt;&#x2F;li&gt;
+&lt;li&gt;Ikhwanul Kiram Mashuri (Mantan Pemimpin Redaksi Koran Republika)&lt;&#x2F;li&gt;
+&lt;li&gt;Iskandar Zulkarnaen (Manajer Kompasiana - Kompas Grup)&lt;&#x2F;li&gt;
+&lt;li&gt;Juhaya S. Praja, Prof. (Mantan Rektor Institut Agama Islam Suryalaya)&lt;&#x2F;li&gt;
+&lt;li&gt;Kalend Osen (Pendiri “Kampung Inggris” Pare Kediri)&lt;&#x2F;li&gt;
+&lt;li&gt;Lukman Hakim Saifuddin (Menteri Agama RI)&lt;&#x2F;li&gt;
+&lt;li&gt;Herman Hidayat, Prof. (Pakar Lingkungan Ekosistem LIPI)&lt;&#x2F;li&gt;
+&lt;li&gt;Husnan Bey Fananie, Dr. (Duta Besar Indonesia untuk Azerbaijan)&lt;&#x2F;li&gt;
+&lt;li&gt;M.Amin Abdullah, Prof. (Mantan Rektor UIN Sunan Kalijaga Yogyakarta)&lt;&#x2F;li&gt;
+&lt;li&gt;M.Amin Nurdin, Dr. (Mantan Dekan Fakultas Ushuluddin UIN Jakarta)&lt;&#x2F;li&gt;
+&lt;li&gt;M.Ennis Anwar, Dr. (Ketua Umum Al-Ittihadiyyah)&lt;&#x2F;li&gt;
+&lt;li&gt;M.Hawin, Prof. (Dekan Fakultas Hukum Universitas Gadjah Mada)&lt;&#x2F;li&gt;
+&lt;li&gt;Masrur Masykur (Wakil Bupati Kendal Periode 2016–2020)&lt;&#x2F;li&gt;
+&lt;li&gt;Mauludin Anwar (Mantan Direktur Pemberitaan SCTV)&lt;&#x2F;li&gt;
+&lt;li&gt;Muchlis M. Hanafi, Dr. (Direktur Lajnah Pentashihan Al-Quran)&lt;&#x2F;li&gt;
+&lt;li&gt;Muhammad Akhyar Adnan, Dr. (Wakil Rektor UII Yogyakarta)&lt;&#x2F;li&gt;
+&lt;li&gt;Muhammad Hilmy (Pengusaha, Jenang Kudus “Mubarok”)&lt;&#x2F;li&gt;
+&lt;li&gt;Muhammad Maftuh Basyuni, Dr. (Mantan Menteri Agama RI)&lt;&#x2F;li&gt;
+&lt;li&gt;Muhammad Muzammil Basyuni (Mantan Duta Besar RI untuk Suriah)&lt;&#x2F;li&gt;
+&lt;li&gt;Muharrir Asy&#x27;ari (Rektor Universitas Muhammadiyah Aceh)&lt;&#x2F;li&gt;
+&lt;li&gt;Muhtarom HM, Prof. (Rektor Universitas Nahdhatul Ulama Jepara)&lt;&#x2F;li&gt;
+&lt;li&gt;Mudjahid Danun (Pendiri Persatuan Pelajar Muslim Eropa)&lt;&#x2F;li&gt;
+&lt;li&gt;Munawar Liza Zainal (Mantan Wali Kota Sabang, NAD)&lt;&#x2F;li&gt;
+&lt;li&gt;Mushtofa Taufik Abdul Latif, (Duta Besar Indonesia untuk Oman)&lt;&#x2F;li&gt;
+&lt;li&gt;Nurcholis Madjid, Prof. (Cendekiawan Muslim)&lt;&#x2F;li&gt;
+&lt;li&gt;Ramly Hutabarat, Prof. (Mantan Direktur Tata Negara Kemenkumham)&lt;&#x2F;li&gt;
+&lt;li&gt;Roem Rowi, Prof. (Mantan Ketua MUI Jawa Timur)&lt;&#x2F;li&gt;
+&lt;li&gt;Siswanto Masruri, Prof. (Mantan Wakil Rektor UIN Yogyakarta)&lt;&#x2F;li&gt;
+&lt;li&gt;Sulaeman Ma’ruf, K.H. (Ketua Forum Pondok Pesantren Banten)&lt;&#x2F;li&gt;
+&lt;li&gt;Sumper Mulia Harahap, Dr. (Dekan FSH IAIN Padangsidempuan)&lt;&#x2F;li&gt;
+&lt;li&gt;Susiknan Azhari, Prof. (Direktur Museum Astronomi Islam)&lt;&#x2F;li&gt;
+&lt;li&gt;Syarifah Gustiawati, Dr. (Pakar Ekonomi Islam)&lt;&#x2F;li&gt;
+&lt;li&gt;Syahrul Mamma, Dr. Irjen. Pol. (Dirjen Perlindungan Konsumen)&lt;&#x2F;li&gt;
+&lt;li&gt;Tajuddin Noor (Mantan Duta Besar RI untuk Sudan)&lt;&#x2F;li&gt;
+&lt;li&gt;Wahib Abdul Jawad, (Mantan Duta Besar RI untuk Suriah)&lt;&#x2F;li&gt;
+&lt;li&gt;Yudi Latief, Dr. (Direktur Reform Institute)&lt;&#x2F;li&gt;
+&lt;li&gt;Yudhi Wahyuni (Mantan Walikota Banjarmasin)&lt;&#x2F;li&gt;
+&lt;li&gt;Zuhri M. Syazali (Mantan Bupati Bangka Barat)&lt;&#x2F;li&gt;
+&lt;li&gt;Zulkifli Muhadli, Dr. (Mantan Bupati Sumbawa Barat)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Falsafah Kehidupan</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/tentang/falsafah-kehidupan/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/tentang/falsafah-kehidupan/</id>
+		<content type="html">&lt;h2 id=&quot;motto&quot;&gt;Motto&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Berbudi Tinggi&lt;&#x2F;li&gt;
+&lt;li&gt;Berbadan Sehat&lt;&#x2F;li&gt;
+&lt;li&gt;Berpengetahuan Luas&lt;&#x2F;li&gt;
+&lt;li&gt;Berpikirian Bebas&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;panca-jiwa&quot;&gt;Panca Jiwa&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Keikhlasan&lt;&#x2F;li&gt;
+&lt;li&gt;Kesederhanaan&lt;&#x2F;li&gt;
+&lt;li&gt;Berdikari&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Ukhuwwah Islamiah&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;panca-jangka&quot;&gt;Panca Jangka&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pendidikan dan Pengajaran&lt;&#x2F;li&gt;
+&lt;li&gt;Kaderisasi&lt;&#x2F;li&gt;
+&lt;li&gt;Pergedungan&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Chizanatullah&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Kesejahteraan Keluarga&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Kata Mereka</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/tentang/kata-mereka/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/tentang/kata-mereka/</id>
+		<content type="html">&lt;blockquote&gt;
+&lt;p&gt;Saya berdoa mudah-mudahan Gontor tambah sukses!. Selain itu saya berharap Gontor juga
+bisa mempertahankan metodenya. Jangan di ubah-ubah! Tinggal pengembangannya saja. Mengapa?
+karena Pak Imam Zarkasyi dengan Trimurti lainya telah menggariskan sebaik-baiknya.
+Saya tidak melihat ada perubahan atau pergeseran di Gontor saat ini, tetapi saya menyarankan
+harus ada pengembangan-pengembangan dan proses pendidikan yang lebih inovatif, kreatif, serta membabaskan dan mencerahkan&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;KH. Hasyim Muzadi, Mantan Keuat Umum PBNU&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sungguh saya sangat terkesan dengan pengalaman pendiri lembaga ini. Inilah yang diperlukan untuk membangun
+sebuah universitas di Afrika selatan, diman orang-orang bisa bekerjasama. Selamat atas semua yang dimiliki dan
+tentunya dilatarbelakangi usaha yang menakjubkan.
+Mudah-mudahan Allah membalas dengan syurga firdaus&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;H.E. Ibrahim Baba Haj Sule, Kedubes Nigeria, Jakarta&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Kata Mutiara</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/tentang/kata-mutiara/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/tentang/kata-mutiara/</id>
+		<content type="html">&lt;blockquote&gt;
+&lt;p&gt;Bondo bahu pikir lek perlu sak nyawane pisan.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Trimurti&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Patah tumbuh hilang berganti, sebelum patah sudah tumbuh, sebelum hilang sudah berganti&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Ahmad Sahal&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jadilah Ulama yang intelek, bukan intelek yang tau agama&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Ahmad Sahal&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Kalau makan, minum, dan tempat tidur saya lebih baik dari pada makan, minum dan tempat tidur anak-anak saya (santri saya), supaya anak-anak protes.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Ahmad Sahal&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Administrasi yang baik wajib(mutlak) untuk menjaga kepercayaan&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Imam Zarkasyi&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ada uang bisa membangun, ada uang tidak ada bangunan, berarti tidur nyenyak tidak bekerja, uang habis tidak ada bangunan sama dengan korupsi&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Imam Zarkasyi&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Kalau sekiranya urusan-urusan di Pondok Modern ini di urus dengan perhitungan materi, tanpa keikhlasan beramal dari guru-guru dan pembantu-pembantunya, makan tidak akan ada yang jadi, dan tidak akan ada sesuatu yang berjalan&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Imam Zarkasyi&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hidup sekali, hiduplah yang berarti.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Imam Zarkasyi&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wujudkanlah Darussalam (Kampung Damai) di luar Pondok Modern, di Indonesia, di dunia yang luas ini.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Ahmad Sahal&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Banyak orang bertitel, tapi tidak berkualitas, banyak orang berkualitas, tapi tidak bertitel.jadilah orang bertitel dan berkualitas&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Hasan Abdullah Sahal&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Perjalan seribu kilometer dimulai dengan ayunan langkah kaki pertama&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Imam Zarkasyi&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Berani hidup tak takut mati, Takut mati jangan hidup, Takut hidup mati saja.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Ahmad Sahal&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Manusia itu berbuat apa yang dia bisa, akan tetapi uhan berbuat apa yang Dia suka&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Zainuddin Fananie&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Andaikata sunnah-sunnah yang ada ini saja dilaksanakan dengan baik, insyaAllah pondok ini akan maju&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Imam Zarkasyi&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Diatas PMDG hanya Allah, Dibawah PMDG hanya tanah. Jasad melekat di bumi, tetapi jiwa berhubung langsung dengan yang di langit, di `Arsy, dengan segala resikonya&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Hasan Abdullah Sahal&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Orang yang belum pernah merasakan kemajuan, tak tahu hakikat kemunduran&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Zainuddin Fananie&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pondok ini mencetak manusia yang pandai di bidang agama, tidak bodoh di bidang umum&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Imam Zarkasyi&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jadilah manusia yang kuat iman, kaya ilmu, kaya jasa dan kaya harta&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Dr. K.H Abdullah Syukri Zarkasyi, M.A&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ciri khas Pondok Pesantren iala adanya kebersamaan antara kiai, guru dan santri dalam satu tempat dan waktu&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Syamsul Hadi Abdan&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;apabila dalam tempo lima tahun seorang pemimpin tidak ada prestasi, berarti dia tidak pernah kerja keras&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Dr. K.H Abdullah Syukri Zarkasyi, M.A&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Keindahan tidak akan terbangun tanpa keikhlasan murni dari kai, guru dan santri&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;K.H Syamsul Hadi Abdan&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Pemangku amanah</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/tentang/pemangku-amanah/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/tentang/pemangku-amanah/</id>
+		<content type="html">&lt;p&gt;Trimurti (Pendiri Pondok Modern Darussalam Gontor)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;K.H. Ahmad Sahal&lt;&#x2F;li&gt;
+&lt;li&gt;K.H. Zainudin Fannanie&lt;&#x2F;li&gt;
+&lt;li&gt;K.H. Imam Zarkasyi&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Badan Wakaf
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Pimpinan Pondok.
+&lt;ol&gt;
+&lt;li&gt;UNIDA.
+&lt;ul&gt;
+&lt;li&gt;Mahasiswa.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;KMI.
+&lt;ul&gt;
+&lt;li&gt;Santri.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Pengasuhan Santri.
+&lt;ol&gt;
+&lt;li&gt;OPPM
+&lt;ul&gt;
+&lt;li&gt;Santri
+2. Pramuka&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Santri&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;DEMA
+&lt;ul&gt;
+&lt;li&gt;Mahasiswa&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;YPPWPM&lt;&#x2F;li&gt;
+&lt;li&gt;IKPM
+&lt;ul&gt;
+&lt;li&gt;ALumni&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;PLMPM&lt;&#x2F;li&gt;
+&lt;li&gt;Pondok Cabang&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Pendaftaran Masuk KMI</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/tentang/pendaftaran-masuk-kmi/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/tentang/pendaftaran-masuk-kmi/</id>
+		<content type="html">&lt;pre data-lang=&quot;text&quot; style=&quot;background-color:#ffffff;color:#323232;&quot; class=&quot;language-text &quot;&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span&gt;⚠️ Kemungkintan data dibawah ini tidak terkini
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Penjelasan Singkat Pendaftaran Masuk KMI (Kulliyatu-L-Mu&#x27;allimat Al-Islamiyah)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pondok-modern-darussalam-gontor-putri-1&quot;&gt;PONDOK MODERN DARUSSALAM GONTOR PUTRI [1]&lt;&#x2F;h2&gt;
+&lt;p&gt;KMI (KULLIYATU-L-MU&#x27;ALLIMAT AL-ISLAMIYAH) adalah lembaga Pendidikan Islam Tingkat Menengah di Pondok Modern Darussalam Gontor yang pendidikannya selama 6 tahun. Ijazah KMI telah mendapat pengakuan dari pemerintah Republik Persatuan Arab (RPA), Mesir, Kerajaan Saudi Arabia, Palistan dan lainnya.
+Mulai tahun 1998 status KMI telah disamakan dengan status Madrasah Aliyah Negeri dengan SK. Dirjen Binbaga Islam No. EIV&#x2F;PP.03.02&#x2F;KEP&#x2F;64&#x2F;98. dan mulai tahun 2000 status KMI disamakan dengan SMU melalui SK. Mendiknas N0. 105&#x2F;0&#x2F;2000.&lt;&#x2F;p&gt;
+&lt;p&gt;PENDAFTARAN MASUK
+KULLIYATU-L-MU&#x27;ALLIMAT AL-ISLAMIYAH (KMI)&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Syarat - syarat Pendaftaran&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Menyerahkan 2 lembar fotocopi STTB terakhir atau Surat Keterangan Lulus yang telah dilegalisir oleh pejabat yang berwenang.&lt;&#x2F;li&gt;
+&lt;li&gt;Berbadan sehat dengan Surat Keterangan dokter dari Balai Kesehatan Santri dan Masyarakat (BKSM) Pondok Modern Darussalam Gontor Putri Kampus 1 Mantingan.&lt;&#x2F;li&gt;
+&lt;li&gt;Menyerahkan pasfoto berjilbab putih berukuran 4 x 6 sebanyak 2 lembar dan3 x 4 sebanyak 8 lembar dengan background warna biru.&lt;&#x2F;li&gt;
+&lt;li&gt;Menyerahkan 3 lembar fotocopi akte kelahiran.&lt;&#x2F;li&gt;
+&lt;li&gt;Menyerahkan 1 lembar Kartu Keluarga.&lt;&#x2F;li&gt;
+&lt;li&gt;Mendaftarkan diri sesuai dengan cara dan waktu yang telah ditentukan.&lt;&#x2F;li&gt;
+&lt;li&gt;Memenuhi ketentuan-ketentuan atau iuran-iuran yang telah ditetapkan pada waktu pendaftaran.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;SyarAt-syarat Penerimaan&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Berijazah Sekolah Dasar (SD) atau Madrasah Ibtidaiyah (MI) atau yang sederajat untuk masuk kelas biasa dengan masa belajar 6 tahun, berijazah Sekolah Lanjutan Tingkat Pertama (SLTP) atau Madrasah Aliyah (MA) atau yang sederajat untuk masuk kelas intensif dengan masa belajar 4 tahun.&lt;&#x2F;li&gt;
+&lt;li&gt;Mempunyai dasar agama, yaitu:
+&lt;ul&gt;
+&lt;li&gt;Dapat menegerjakan ibadah sehari-hari dengan baik.&lt;&#x2F;li&gt;
+&lt;li&gt;Dapat membaca al-Quran dengan baik.&lt;&#x2F;li&gt;
+&lt;li&gt;Dapat membaca dan menulis Arab dengan baik.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Lulus dalam testing&#x2F;ujian masuk dan psyco-test.&lt;&#x2F;li&gt;
+&lt;li&gt;Sanggup bertempat tinggal di asrama yang telah disediakan.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Waktu dan Tempat Pendaftaran
+Pendaftaran Calon Pelajar (Capel) Pondok Modern Darussalam Gontor Putri dilaksanakan pada:
+Tanggal 5-14 Syawwal 1438&#x2F;29 Juni - 8 Juli 2017.
+bertempar di Pondok Modern Darussalam Gontor Putri Kampus 1 Sambirejo, Mantingan, Ngawi.
+Pendaftaran Capel di Pondok Modern Darussalam Gontor Putri diadakan secara langsung di kampus, artinya tidak bisa dilaksanakan melalui korespondensi, telfon, atau internet.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Pelaksanaan UJian Masuk KMI dan Materi Ujian
+Ujian Masuk KMI Meliputi ujian syafahi (ujian lisan) dan ujian tahriri (ujian tulis).&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ujian Lisan dilaksanakan tanggal 5-14 Syawwal 1438&#x2F;29 Juni-8 Juli 2017.
+Materi ujian lisan meliputi psyco-test, membaca Al-Qur&#x27;an dengan menggunakan kaidah tajwid, dan praktek ibadah (Ibadah qauliyah dan ibadah &#x27;amaliyah).&lt;&#x2F;li&gt;
+&lt;li&gt;Ujian Tulis dilaksanakan pada tanggal 15 Syawwal 1438&#x2F;9 Juli 2017
+Materi ujian tulis meliputi IMla&#x27; (menulis Arab dengan didekte). Bahasa Indonesia, Berhitung Soal dan Berhitung Angka (Matematika dasar setara kelas 6 SD).&lt;&#x2F;li&gt;
+&lt;li&gt;Tidak ada perbedaan antara materi ujian yang diujikan kepada calon pelajar lulusan SD (sederajat) dengan calon pelajar lulusan SMP (sederajat) serta lulusan SMU (sederajat).&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;NB: Dalam pelaksanaan Ujian Masuk KMI tidak diadakan ujian ulangan&#x2F;susulan (waktu pelaksanaan ujian bisa berubah sewaktu-waktu).&lt;&#x2F;p&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;Program Ujian Lanjutan
+Bagi calon pelajar yang telah lulus UJian Masuk KMI diberi kesempatan untuk mengikuti Program Ujian Lanjutan, yaitu ujian akselerasi ke kelas yang lebih tinggi jika memenuhi syarat syarat tertentu, diantaranya memiliki kemampuan dengan bekal keilmuan yang cukup untuk duduk di kelas yang lebih tinggi dari kelas 1 KMI atau 1 Intensive KMI.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Biaya Administrasi Pendaftaran Calon Siswa Baru KMI Tahun 1438&#x2F;2017&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Biaya Pendaftaran&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;No&lt;&#x2F;th&gt;&lt;th&gt;Daftar&lt;&#x2F;th&gt;&lt;th align=&quot;right&quot;&gt;Jumlah&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;Uang pangkal masuk KMI&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp. 1.700.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;Uang penambahan bangunan baru&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   850.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;3&lt;&#x2F;td&gt;&lt;td&gt;Uang Kepanitiaan Awal Tahun Ajaran&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   210.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;4&lt;&#x2F;td&gt;&lt;td&gt;Uang kertas (1 tahun sekali)&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   370.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;5&lt;&#x2F;td&gt;&lt;td&gt;Uang Majalah Gontor (1 tahun sekali)&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   270.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;6&lt;&#x2F;td&gt;&lt;td&gt;Uang Kesehatan&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   290.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;7&lt;&#x2F;td&gt;&lt;td&gt;Pembangunan Menara Masjid PMDG&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   600.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;8&lt;&#x2F;td&gt;&lt;td&gt;Uang sekolah dan asrama (setiap bulan)&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   300.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;9&lt;&#x2F;td&gt;&lt;td&gt;Uang makan (setiap bulan)&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   310.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;10&lt;&#x2F;td&gt;&lt;td&gt;Pembayaran Organisasi dan Pramuka&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   465.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;Jumlah total&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp. 5.365.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Biaya Setiap Bulan&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;No&lt;&#x2F;th&gt;&lt;th&gt;Daftar&lt;&#x2F;th&gt;&lt;th align=&quot;right&quot;&gt;Jumlah&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;1&lt;&#x2F;td&gt;&lt;td&gt;Uang makan (setiap bulan)&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   310.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;2&lt;&#x2F;td&gt;&lt;td&gt;Uang sekolah dan asrama (setiap bulan)&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   300.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;td&gt;Jumlah Total&lt;&#x2F;td&gt;&lt;td align=&quot;right&quot;&gt;Rp.   610.000&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Catatan&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ketentuan biaya dapat berubah sewaktu-waktu.&lt;&#x2F;li&gt;
+&lt;li&gt;Pendaftar yang belum lulus Ujian Masuk dapat mengambil kembali semua pembiayaan selain uang makan yang telah dipakai, sumbangan pembangunan, dan uang kepanitiaan Bulan Syawwal.&lt;&#x2F;li&gt;
+&lt;li&gt;Informasi lebih lanjut dapat ditanyakan ke kantor KMI melalui nomor telepon 0351-673261&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;referensi&quot;&gt;Referensi&lt;&#x2F;h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Brosur panduan masuk KMI untuk Gontor Putri (Tahun 2017)&lt;&#x2F;li&gt;
+&lt;li&gt;Wardun 2017 *panduan pendaftaran dari wardun&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sejarah PMDG</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/tentang/sejarah/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/tentang/sejarah/</id>
+		<content type="html">&lt;h2 id=&quot;pondok-tegalsari&quot;&gt;Pondok Tegalsari&lt;&#x2F;h2&gt;
+&lt;p&gt;Cikal bakal Pondok Modern Darussalam Gontor bermula pada abad ke-18,
+saat Kyai Ageng Hasan Besari mendirikan Pondok Tegalsari di Desa Jetis
+Ponorogo Jawa Timur (10 KM ke arah selatan kota Ponorogo). Pondok
+Tegalsari sangat termasyhur pada masanya, sehingga didatangi ribuan
+santri dari berbagai daerah di pelosok nusantara. Kepemimpinan Pondok
+Tegalsari berlangsung selama enam generasi.&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Periode&lt;&#x2F;th&gt;&lt;th&gt;Nama&lt;&#x2F;th&gt;&lt;th&gt;Keterangan&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Generasi 1&lt;&#x2F;td&gt;&lt;td&gt;Kyai Ageng Hasan Besari&lt;&#x2F;td&gt;&lt;td&gt;w.1760&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Generasi 2&lt;&#x2F;td&gt;&lt;td&gt;Kyai Ilyas&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Generasi 3&lt;&#x2F;td&gt;&lt;td&gt;Kyai Hasan Yahya&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Generasi 4&lt;&#x2F;td&gt;&lt;td&gt;Kyai Hasan Besari II&lt;&#x2F;td&gt;&lt;td&gt;w. 1862&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Generasi 5&lt;&#x2F;td&gt;&lt;td&gt;Kyai Hasan Anom&lt;&#x2F;td&gt;&lt;td&gt;w. 1873&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Generasi 6&lt;&#x2F;td&gt;&lt;td&gt;Kyai Hasan Khalifah&lt;&#x2F;td&gt;&lt;td&gt;w. 1883&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Pada pertengahan abad ke-19 yaitu pada masa Kyai Hasan Khalifah,
+Pondok Tegalsari mulai mengalami kemunduran. Pada saat itu, dia
+mempunyai seorang santri kesayangan bernama R.M. Sulaiman Djamaluddin,
+seorang keturunan Keraton Kasepuhan Cirebon. Kyai Hasan Khalifah
+kemudian menikahkan putri bungsunya Oemijatin (dikenal dengan Nyai
+Sulaiman) dengan R.M. Sulaiman Djamaluddin dan mereka diberi tugas
+mendirikan pesantren baru untuk meneruskan Pondok Tegalsari, yang di
+kemudian hari pesantren baru ini dikenal dengan Pondok Gontor Lama.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pondok-gontor-lama&quot;&gt;Pondok Gontor Lama&lt;&#x2F;h2&gt;
+&lt;p&gt;Berbekal 40 santri yang dibawa dari Pondok Tegalsari, Kyai
+R.M. Sulaiman Djamaluddin bersama istrinya mendirikan Pondok Gontor
+Lama di sebuah tempat yang terletak ± 3 kilometer sebelah timur
+Tegalsari dan 11 kilometer ke arah tenggara dari kota Ponorogo. Pada
+saat itu, Gontor masih merupakan hutan dan kerap kali dijadikan
+persembunyian perampok, penjahat, dan penyamun. Kepemimpinan Pondok
+Gontor Lama berlangsung selama tiga generasi.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generasi 1: Kyai R.M. Sulaiman Djamaluddin (pendiri Pondok Gontor Lama)&lt;&#x2F;li&gt;
+&lt;li&gt;Generasi 2: Kyai Archam Anom Besari (putra Kyai R.M. Sulaiman)&lt;&#x2F;li&gt;
+&lt;li&gt;Generasi 3: Kyai Santoso Anom Besari (putra Kyai Archam Anom Besari)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Kyai Santoso Anom Besari menikah dengan Rr. Sudarmi, keturunan
+R.M. Sosrodiningrat (Bupati Madiun). Kyai Santoso Anom wafat pada
+tahun 1918 di usia muda dan meninggalkan 7 anak yang masih
+kecil. Kepemimpinan Pondok Gontor Lama pun akhirnya berakhir, Di
+kemudian hari, tiga dari tujuh putra-putri Kyai Santoso Anom Besari
+menghidupkan kembali Pondok Gontor Lama dengan memperbarui dan meningkatkan sistem serta kurikulumnya.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pondok-modern-darussalam-gontor&quot;&gt;Pondok Modern Darussalam Gontor&lt;&#x2F;h2&gt;
+&lt;p&gt;Setelah menuntut ilmu di berbagai pesantren tradisional dan lembaga
+modern, tiga orang putra Kyai Santoso Anom akhirnya kembali ke Gontor
+dan pada tanggal 20 September 1926 bertepatan dengan 12 Rabiul Awwal
+1345, dalam peringatan Maulid Nabi SAW, mereka mengikrarkan berdirinya
+Pondok Modern Darussalam Gontor (PMDG). Ketiganya dikenal dengan
+sebutan Trimurti Pendiri Pondok Modern Darussalam Gontor, yaitu.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#ffffff;color:#323232;&quot;&gt;&lt;code&gt;&lt;span&gt;- K.H.Ahmad Sahal (1901 - 1977).
+&lt;&#x2F;span&gt;&lt;span&gt;- K.H.Zainudin Fananie (1908 - 1967)
+&lt;&#x2F;span&gt;&lt;span&gt;- K.H.Imam Zarkasyi (1910 - 1985)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Pada tanggal 12 Oktober 1958 bertepatan dengan 28 Rabi’ul Awwal 1378,
+Trimurti mewakafkan PMDG kepada Umat Islam. Sebuah pengorbanan
+kepemilikan pribadi demi kemaslahatan umat. Pihak penerima amanat
+diwakili oleh 15 anggota alumni Gontor (IKPM) yang kemudian menjadi
+Badan Wakaf PMDG.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Struktur</title>
+		<published>2021-12-01T00:00:00+00:00</published>
+		<updated>2021-12-01T00:00:00+00:00</updated>
+		<link href="https://azzamsa.github.io/gntrwiki/wiki/tentang/struktur/" type="text/html"/>
+		<id>https://azzamsa.github.io/gntrwiki/wiki/tentang/struktur/</id>
+		<content type="html">&lt;p&gt;Struktur Organisasi :&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Badan Wakaf
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Pimpinan Pondok.
+&lt;ol&gt;
+&lt;li&gt;UNIDA.
+&lt;ul&gt;
+&lt;li&gt;Mahasiswa.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;KMI.
+&lt;ul&gt;
+&lt;li&gt;Santri.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Pengasuhan Santri.
+&lt;ol&gt;
+&lt;li&gt;OPPM
+&lt;ul&gt;
+&lt;li&gt;Santri
+2. Pramuka&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Santri&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;DEMA
+&lt;ul&gt;
+&lt;li&gt;Mahasiswa&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;YPPWPM&lt;&#x2F;li&gt;
+&lt;li&gt;IKPM
+&lt;ul&gt;
+&lt;li&gt;ALumni&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;PLMPM&lt;&#x2F;li&gt;
+&lt;li&gt;Pondok Cabang&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Ketrangan :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;UNIDA  : Universitas Darussalam Gontor&lt;&#x2F;li&gt;
+&lt;li&gt;DEMA   : Dewan Mahasiswa&lt;&#x2F;li&gt;
+&lt;li&gt;YPPWMP : Yayasan Pemeliharaan dan Perluasan Wakaf Pondok Modern&lt;&#x2F;li&gt;
+&lt;li&gt;KMI    : Kulliyatu-L-Mu&#x27;alimin Al-Islamiyah&lt;&#x2F;li&gt;
+&lt;li&gt;IKPM   : Ikatan Keluarga Pondok Modern&lt;&#x2F;li&gt;
+&lt;li&gt;OPPM   : Organisasi Pelajar Pondok Modern&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;pemangku amanah saat ini.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
