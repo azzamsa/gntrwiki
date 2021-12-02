@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.4] - 2021-12-02
+
+### Bug Fixes
+- `toc` seharusnya dibawah `extra` (de9ff31)
+
+
 ## [0.1.3] - 2021-12-01
 
 ### Bug Fixes
