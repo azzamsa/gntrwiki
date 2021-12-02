@@ -7,6 +7,8 @@ draft = false
 weight = 1
 sort_by = "weight"
 template = "wiki/page.html"
+
+[extra]
 toc = true
 +++
 

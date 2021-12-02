@@ -7,7 +7,6 @@ draft = false
 weight = 11
 sort_by = "weight"
 template = "wiki/page.html"
-toc = true
 +++
 
 ``` text
